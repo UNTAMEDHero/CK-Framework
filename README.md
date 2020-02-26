@@ -19,6 +19,6 @@ CK-Framework has its own [Official Discord](https://discord.io/ckframework).
 
 ### If you need any support, or anything, visit our discord, there we will be dealing with everything about this framework!
 
-### CREDITOS GERAIS:
+### CREDITS:
   - yCr4zY#2802 ( Developer )
   - key_value#2732 ( Developer )
